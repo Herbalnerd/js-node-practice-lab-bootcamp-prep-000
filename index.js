@@ -1,7 +1,7 @@
 // write your code below!
 
 var name = "Meghan the Herbal WitchSlut"
-var height = "74"
+var height = "999"
 
 console.log("Name:")
 console.log(name)
